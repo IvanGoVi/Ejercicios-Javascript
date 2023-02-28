@@ -18,7 +18,7 @@ console.log(example);
 */
 
 
-//Resulto por Isra
+//Resulto por Isra para varias palabras
 
 let text="este es un texto con muchas palabras de mucha longitud"
 
